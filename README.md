@@ -9,7 +9,7 @@
 	<div>
 		<h1 id="cabecalho">WELCOME TO TECHNOLOGY ROOM!!!</h1>
 	</div>
-	<div class="image"> <img src="logo.png" width="600px">	 </div>
+	<div class="image"> <img src="logo.png" width="500px">	 </div>
 
 <h2>Keep Calm!</h2>
 <h2>We are building the future.</h2>
