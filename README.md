@@ -3,14 +3,10 @@
 
 #### *Keep calm... We are building the future!*
 
-*Press Play!*
+PLAY!
 
 <div>
-
 <audio autoplay="autoplay" controls="controls">
-  
-  <source src="speech.mp3" type="audio/mpeg"> </source>
-
+    <source src="speech.mp3" type="audio/mpeg"> </source>
 </audio>
-
 </div>
