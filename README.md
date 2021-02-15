@@ -2,7 +2,9 @@
 <div class="image"> <img src="logo.png" width="300px">	 </div>
 
 #### *Keep calm... We are building the future!*
-<Press Play!
+
+*Press Play!*
+
 <div>
 
 <audio autoplay="autoplay" controls="controls">
