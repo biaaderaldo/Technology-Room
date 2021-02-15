@@ -11,13 +11,13 @@
 	</div>
 	<div class="image"> <img src="logo.png" width="300px">	 </div>
 
-<Keep Calm!
-<We are building the future.
+<p>Keep Calm!</p>
+<p>We are building the future.</p>
 	<div>
 		<audio autoplay="autoplay" controls="controls">
 			<source src="speech.mp3" type="audio/mpeg"></source>	
 		 </audio>
 	</div>
-Press Play!
+<p>Press Play!</p>
 </body>
 </html> 
