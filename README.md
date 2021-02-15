@@ -1,6 +1,5 @@
 # **Welcome to Technology Room**
->![logo.png](/assests/images/logo.png)
-
+<div class="image"> <img src="logo.png" width="300px">	 </div>
 #### *Keep calm... We are building the future!*
 >PRESS PLAY!
 <audio autoplay="autoplay" controls="controls">
