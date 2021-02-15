@@ -1,5 +1,5 @@
 # **Welcome to Technology Room**
->![logo.png](technologyroom/logo.png)
+>![logo.png](/assests/images/logo.png)
 
 #### *Keep calm... We are building the future!*
 >PRESS PLAY!
